@@ -1,3 +1,4 @@
+![logo](https://github.com/ayushashish21/ayushashish21/blob/main/11839763155906584454.jpg)
 # 💫 Hi 👋, I'm N. Ayush Ashish
 **A passionate Full-Stack Web Developer || Frontend & Backend Engineer from India**
 
