@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **ayushashish52@gmail.com** For Collaboration/Project or An
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushashish21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushashish21)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushashish21&theme=pitch)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
